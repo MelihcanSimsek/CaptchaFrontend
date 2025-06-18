@@ -1,5 +1,35 @@
 # Captcha
 
+Register Page
+
+![c_registerpage](https://github.com/user-attachments/assets/bb53a95e-2bf1-4230-8800-77693e87795b)
+
+Login Page
+
+![c_loginpage](https://github.com/user-attachments/assets/e6174e28-756a-464c-8c50-3fb97dbc987b)
+
+Normal Login
+
+![c_normalhomepage](https://github.com/user-attachments/assets/b931e4d1-935d-45f6-9f6b-d8ed46a8982c)
+
+Google OAuth Resource Owner
+
+![c_OAuthLogin](https://github.com/user-attachments/assets/f5ef0327-cbaf-4c51-a7fe-f0fd3644633a)
+
+Google OAuth Callback
+
+![c_callbackpage](https://github.com/user-attachments/assets/8e9c61be-1748-4a56-86e9-894e99e53a45)
+
+Google OAuth Login
+
+![c_OAuthhomepage](https://github.com/user-attachments/assets/1006367a-7f6e-4b4d-b344-76e227ca7c9c)
+
+
+
+
+
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
 
 ## Development server
